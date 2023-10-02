@@ -1,4 +1,5 @@
 ### Hi there 👋
+Aim to be a remote home work developer.
 
 <!--
 **Lerr1uqs/Lerr1uqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
