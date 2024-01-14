@@ -1,6 +1,8 @@
 ### Hi there 👋
 I now work in traditional security-related industries.
+
 Aim to be a remote home work developer in future.
+
 I’m currently learning:
 - blockchain develop/security
 - quantitative finance
