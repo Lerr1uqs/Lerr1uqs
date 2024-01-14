@@ -1,5 +1,5 @@
 ### Hi there 👋
-I now work in traditional security-related industries.
+I now work in traditional security industry.
 
 Aim to be a remote home work developer in future.
 
