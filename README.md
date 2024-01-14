@@ -1,5 +1,10 @@
 ### Hi there 👋
-Aim to be a remote home work developer.
+I now work in traditional security-related industries.
+Aim to be a remote home work developer in future.
+I’m currently learning:
+- blockchain develop/security
+- quantitative finance
+- machine learning
 
 <!--
 **Lerr1uqs/Lerr1uqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
