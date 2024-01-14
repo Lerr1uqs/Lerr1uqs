@@ -1,7 +1,7 @@
 ### Hi there 👋
 I now work in traditional security industry.
 
-Aim to be a remote home work developer in future.
+Aim to be a remote home developer in future.
 
 I’m currently learning:
 - blockchain develop/security
