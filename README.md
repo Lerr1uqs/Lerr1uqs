@@ -8,6 +8,7 @@ I’m currently learning:
 - quantitative finance
 - machine learning
 
+![Alt](https://repobeats.axiom.co/api/embed/e95f40e65fb031f5d75a6f5e7184f64a3d800e13.svg "Repobeats analytics image")
 <!--
 **Lerr1uqs/Lerr1uqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
