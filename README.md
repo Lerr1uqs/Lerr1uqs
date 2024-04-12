@@ -1,12 +1,10 @@
 ### Hi there 👋
-I now work in traditional security industry.
-
 Aim to be a remote home developer in future.
 
 I’m currently learning:
-- blockchain develop/security
-- quantitative finance
-- machine learning
+- 🔭 blockchain develop/security
+- 🌱 quantitative finance
+- ⚡ machine learning
 
 ![Alt](https://repobeats.axiom.co/api/embed/e95f40e65fb031f5d75a6f5e7184f64a3d800e13.svg "Repobeats analytics image")
 <!--
