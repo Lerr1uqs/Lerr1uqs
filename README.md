@@ -2,6 +2,7 @@
 Aim to be a remote home developer in future.
 
 I’m currently learning:
+- 👾 reverse engineer
 - 🔭 blockchain develop/security
 - 🌱 quantitative finance
 - ⚡ machine learning
